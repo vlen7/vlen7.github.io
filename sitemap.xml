@@ -3,20 +3,27 @@
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2021-10-07T19:11:51+08:00</lastmod>
+    <lastmod>2021-10-10T22:41:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/life/startbydoingitbadly/</loc>
-    <lastmod>2021-10-07T19:11:51+08:00</lastmod>
+    <loc>http://localhost:1313/post/work/holdmeetingwithceo/</loc>
+    <lastmod>2021-10-10T22:41:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2021-10-10T22:41:04+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/life/startbydoingitbadly/</loc>
     <lastmod>2021-10-07T19:11:51+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
